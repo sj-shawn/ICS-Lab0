@@ -3,7 +3,7 @@
 int main()
 {
     // @TODO: print a sentence you want.
-    int day = 2;
+    int day = 1;
     printf("%d days left until the deadline! \n", day);
     printf("This is my first work! \n");
     printf("Hello, world!\n");
